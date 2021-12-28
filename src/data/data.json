@@ -131,7 +131,7 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
+      "img": "https://res.cloudinary.com/fitness-glory/image/upload/v1640711655/1636824483644_kwmssm.jpg",
       "name": "John Doe",
       "job": "Director"
     },
