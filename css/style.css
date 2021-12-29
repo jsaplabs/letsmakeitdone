@@ -208,7 +208,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/intro-bg.jpg) center center no-repeat;
+  background: url("https://res.cloudinary.com/fitness-glory/image/upload/v1640762808/xps-4TBSG2Oqu0Q-unsplash_czqn1a.jpg") center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
