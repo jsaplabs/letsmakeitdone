@@ -22,47 +22,47 @@
     {
       "title": "The Knack",
       "largeImage": "img/portfolio/theknack.png",
-      "smallImage": "https://res.cloudinary.com/fitness-glory/image/upload/v1640783702/knack_b2ngsu.jpg"
+      "smallImage": "img/portfolio/theknack.png"
     },
     {
       "title": "M Brand",
-      "largeImage": "https://res.cloudinary.com/fitness-glory/image/upload/v1640783698/mbrand_n7yt37.jpg",
-      "smallImage": "https://res.cloudinary.com/fitness-glory/image/upload/v1640783698/mbrand_n7yt37.jpg"
+      "largeImage": "img/portfolio/mbrand.png",
+      "smallImage": "img/portfolio/mbrand.png"
+    },
+    {
+      "title": "Low Poly",
+      "largeImage": "img/portfolio/lowpoly.png",
+      "smallImage": "img/portfolio/lowpoly.png"
+    },
+    {
+      "title": "Rasam Spices",
+      "largeImage": "img/portfolio/rasam.png",
+      "smallImage": "img/portfolio/rasam.png"
+    },
+    {
+      "title": "Channuka Flyer",
+      "largeImage": "img/portfolio/channuka.png",
+      "smallImage": "img/portfolio/channuka.jpg"
     },
     {
       "title": "Isuruma Flora",
-      "largeImage": "https://res.cloudinary.com/fitness-glory/image/upload/v1640784125/Isuruma_queg1s.jpg",
-      "smallImage": "https://res.cloudinary.com/fitness-glory/image/upload/v1640784125/Isuruma_queg1s.jpg"
+      "largeImage": "img/portfolio/isuruma.png",
+      "smallImage": "img/portfolio/isuruma.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Class Flyer",
+      "largeImage": "img/portfolio/classflyer.png",
+      "smallImage": "img/portfolio/classflyer.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Low Poly Tshirt",
+      "largeImage": "img/portfolio/lowpolytshirt.png",
+      "smallImage": "img/portfolio/lowpolytshirt.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Rasam Packet",
+      "largeImage": "img/portfolio/rasampcaket.png",
+      "smallImage": "img/portfolio/rasampcaket.png"
     }
   ],
   "Services": [
