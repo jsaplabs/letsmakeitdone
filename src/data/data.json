@@ -20,9 +20,9 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "The Knack",
+      "largeImage": "https://res.cloudinary.com/fitness-glory/image/upload/v1640783702/knack_b2ngsu.jpg",
+      "smallImage": "https://res.cloudinary.com/fitness-glory/image/upload/v1640783702/knack_b2ngsu.jpg"
     },
     {
       "title": "Project Title",
