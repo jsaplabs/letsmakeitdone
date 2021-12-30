@@ -310,7 +310,7 @@ header .intro-text {
 /* Services Section */
 #services {
   padding: 100px 0;
-  background: linear-gradient(to right, #f83600 0%, #fe8c00 100%);
+  background: black;
   color: #fff;
 }
 #services .service-desc {
