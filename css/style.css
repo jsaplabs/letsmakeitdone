@@ -209,7 +209,7 @@ a:focus,
   width: 100%;
   padding: 0;
   background: url("https://res.cloudinary.com/fitness-glory/image/upload/v1640887520/portrait-young-woman-who-is-posing-covered-with-black-paint_lrtpej.jpg") center center no-repeat;
-  background-color: #e5e5e5;
+  background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
