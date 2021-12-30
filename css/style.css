@@ -404,7 +404,7 @@ header .intro-text {
 /* Testimonials Section */
 #testimonials {
   padding: 100px 0;
-  background: #f6f6f6;
+  background: black;
 }
 #testimonials i {
   color: #e6e6e6;
@@ -439,7 +439,7 @@ header .intro-text {
   margin-top: 10px;
   font-size: 15px;
   font-weight: 600;
-  color: #666;
+  color: white;
 }
 /* Team Section */
 #team {
@@ -457,12 +457,13 @@ header .intro-text {
 }
 #team .thumbnail .caption {
   padding: 10px 0 0;
-  color: #888;
+  color: white;
 }
 /* Contact Section */
 #contact {
   padding: 100px 0 60px;
-  background: linear-gradient(to right, #f83600 0%, #fe8c00 100%);
+  /* background: linear-gradient(to right, #f83600 0%, #fe8c00 100%); */
+  background: black;
   color: rgba(255, 255, 255, 0.75);
 }
 #contact .section-title {
