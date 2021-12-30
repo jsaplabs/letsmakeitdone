@@ -592,7 +592,7 @@ label {
 #footer {
   background: #f6f6f6;
   padding: 30px 0;
-  background: linear-gradient(to right, #f83600 0%, #fe8c00 100%);
+  background: black;
 }
 #footer p {
   color: white;
