@@ -226,7 +226,21 @@ a:focus,
   text-transform: uppercase;
   margin-top: 0;
   margin-bottom: 10px;
+  animation-duration: 3s;
+  animation-name: slidein;
 }
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+
 .intro h1 span {
   font-weight: 800;
   color: #fe8c00;
